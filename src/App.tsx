@@ -9,7 +9,7 @@ function App() {
     <h1 className="p-4 text-3xl font-bold">My Projects</h1>
       <section id="center">
         <pre> 
-        <code>{JSON.stringify(projects[0].title, null, 2)}</code></pre>
+        <code>{JSON.stringify(projects[0], null, 2)}</code></pre>
       </section>
     </>
   );
