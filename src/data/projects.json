@@ -5,77 +5,77 @@
     "status": "Completed",
     "techStack": ["HTML", "CSS", "JavaScript", "Fetch from API"],
     "year": 2026,
-    "image": [
+    "images": [
       {
-        "srcUrl": "/src/data/project-images/online-shop/thumnail-image-online-shop.png",
+        "srcUrl": "/project-images/online-shop/thumbnail-image-online-shop.png",
         "alt": "Online Shop thumbnail image showing the homepage on large screens"
       },
       {
-        "srcUrl": "/src/data/project-images/online-shop/homepage-mobile.png",
+        "srcUrl": "/project-images/online-shop/homepage-mobile.png",
         "alt": "Online shop homepage with responsive design to fit mobile screens"
       },
       {
-        "srcUrl": "/src/data/project-images/online-shop/homepage-mobile-hamburger.png",
+        "srcUrl": "/project-images/online-shop/homepage-mobile-hamburger.png",
         "alt": "Online shop homepage with responsive design to fit mobile screens, showing a hamburger menu"
       },
       {
-        "srcUrl": "/src/data/project-images/online-shop/login.png",
+        "srcUrl": "/project-images/online-shop/login.png",
         "alt": "Login page for large screens, with an email and password input and a 'Login' button"
       },
       {
-        "srcUrl": "/src/data/project-images/online-shop/login-mobile.png",
+        "srcUrl": "/project-images/online-shop/login-mobile.png",
         "alt": "Login page for mobile, with an email and password input and a 'Login' button"
       },
       {
-        "srcUrl": "/src/data/project-images/online-shop/register.png",
+        "srcUrl": "/project-images/online-shop/register.png",
         "alt": "Register page for large screens, showing username, email and password fields and a 'Sign up' button"
       },
       {
-        "srcUrl": "/src/data/project-images/online-shop/register-mobile.png",
+        "srcUrl": "/project-images/online-shop/register-mobile.png",
         "alt": "Register page for mobile, showing username, email and password fields and a 'Sign up' button"
       },
       {
-        "srcUrl": "/src/data/project-images/online-shop/add-to-cart-png",
+        "srcUrl": "/project-images/online-shop/add-to-cart.png",
         "alt": "'Keyboard' product added to cart, with a pop up notification signaling confirmation for large screens"
       },
       {
-        "srcUrl": "/src/data/project-images/online-shop/add-to-cart-mobile.png",
+        "srcUrl": "/project-images/online-shop/add-to-cart-mobile.png",
         "alt": "'Keyboard' product added to cart, with a pop up notification signaling confirmation for mobile"
       },
       {
-        "srcUrl": "/src/data/project-images/online-shop/ratings.png",
+        "srcUrl": "/project-images/online-shop/ratings.png",
         "alt": "Reviews for one product, containing a username, numeric rating and description for large screens"
       },
       {
-        "srcUrl": "/src/data/project-images/online-shop/ratings-mobile.png",
+        "srcUrl": "/project-images/online-shop/ratings-mobile.png",
         "alt": "Reviews for one product, containing a username, numeric rating and description for mobile"
       },
       {
-        "srcUrl": "/src/data/project-images/online-shop/carousel.png",
+        "srcUrl": "/project-images/online-shop/carousel.png",
         "alt": "Product carousel showcasing 3 hightest rated products 3 out of 9, for large screens"
       },
             {
-        "srcUrl": "/src/data/project-images/online-shop/carousel-mobile.png",
+        "srcUrl": "/project-images/online-shop/carousel-mobile.png",
         "alt": "Product carousel showcasing 2 hightest rated products 2 out of 9, for mobile"
       },
       {
-        "srcUrl": "/src/data/project-images/online-shop/cart.png",
+        "srcUrl": "/project-images/online-shop/cart.png",
         "alt": "Shoppingcart containing 3 items in cart, with an order summary for large screens"
       },
       {
-        "srcUrl": "/src/data/project-images/online-shop/cart-mobile.png",
+        "srcUrl": "/project-images/online-shop/cart-mobile.png",
         "alt": "Shoppingcart containing 2 items in cart, with an order summary for mobile"
       },
       {
-        "srcUrl": "/src/data/project-images/online-shop/checkout.png",
+        "srcUrl": "/project-images/online-shop/checkout.png",
         "alt": "Checkout with shipping and payment forms, and an order summary for large screens"
       },
       {
-        "srcUrl": "/src/data/project-images/online-shop/checkout-mobile.png",
+        "srcUrl": "/project-images/online-shop/checkout-mobile.png",
         "alt": "Checkout with shipping and payment forms, and an order summary for large screens for large screens"
       },
       {
-        "srcUrl": "/src/data/project-images/online-shop/checkout2-mobile.png",
+        "srcUrl": "/project-images/online-shop/checkout2-mobile.png",
         "alt": "Checkout with shipping and payment forms, and an order summary for large screens"
       }
     ]
@@ -86,120 +86,120 @@
     "status": "Completed",
     "techStack": ["HTML", "CSS", "Vite", "TypeScript", "Fetch from API"],
     "year": 2026,
-    "image": [
+    "images": [
       {
-        "srcUrl": "/src/data/project-images/social-app/thumnail-image-social-app.png",
+        "srcUrl": "/project-images/social-app/thumbnail-image-social-app.png",
         "alt": "Social Media App homepage showing a logged in user, creating a new post and following for large screens"
       },
       {
-        "srcUrl": "/src/data/project-images/social-app/homepage-mobile.png",
+        "srcUrl": "/project-images/social-app/homepage-mobile.png",
         "alt": "Social Media App homepage showing a logged in user, creating a new post on mobile"
       },
 
       {
-        "srcUrl": "/src/data/project-images/social-app/login.png",
+        "srcUrl": "/project-images/social-app/login.png",
         "alt": "Login page for large screens, with an email and password input and a 'Login' button"
       },
       {
-        "srcUrl": "/src/data/project-images/social-app/login-mobile.png",
+        "srcUrl": "/project-images/social-app/login-mobile.png",
         "alt": "Login page for mobile, with an email and password input and a 'Login' button"
       },
       {
-        "srcUrl": "/src/data/project-images/social-app/register.png",
+        "srcUrl": "/project-images/social-app/register.png",
         "alt": "Register page for large screens, showing username, email and password fields and a 'Sign up' button"
       },
       {
-        "srcUrl": "/src/data/project-images/social-app/register-mobile.png",
+        "srcUrl": "/project-images/social-app/register-mobile.png",
         "alt": "Register form containing fields for personal details and a 'Sign up' button"
       },      
       {
-        "srcUrl": "/src/data/project-images/social-app/pagination.png",
+        "srcUrl": "/project-images/social-app/pagination.png",
         "alt": "Post feed with username, title, comment text, date added, tags, 'Follow'/'Following' button and pagination for large screens"
       },
       {
-        "srcUrl": "/src/data/project-images/social-app/pagination-mobile.png",
+        "srcUrl": "/project-images/social-app/pagination-mobile.png",
         "alt": "Post feed with username, title, comment text, date added, tags, 'Follow'/'Following' button and pagination for mobile"
       },
       {
-        "srcUrl": "/src/data/project-images/social-app/comments.png",
+        "srcUrl": "/project-images/social-app/comments.png",
         "alt": "Viewing other users comments, and a form to add your own comment with a 'Add comment' button for large screens"
       },
       {
-        "srcUrl": "/src/data/project-images/social-app/comments-mobile.png",
+        "srcUrl": "/project-images/social-app/comments-mobile.png",
         "alt": "Viewing other users comments, and a form to add your own comment with a 'Add comment' button for mobile"
       },
       {
-        "srcUrl": "/src/data/project-images/social-app/edit-modal.png",
+        "srcUrl": "/project-images/social-app/edit-modal.png",
         "alt": "Popup modal on users own post to change the content of the post and a 'confirm' button can be clicked, for large screens"
       },
       {
-        "srcUrl": "/src/data/project-images/social-app/edit-modal-mobile.png",
+        "srcUrl": "/project-images/social-app/edit-modal-mobile.png",
         "alt": "Popup modal on users own post to change the content of the post and a 'confirm' button can be clicked, for mobile"
       },
         {
-        "srcUrl": "/src/data/project-images/social-app/delete-modal.png",
+        "srcUrl": "/project-images/social-app/delete-modal.png",
         "alt": "Popup modal on users own post to delete post, a 'confirm' button or 'cancel' button can be clicked, for large screens"
       },
       {
-        "srcUrl": "/src/data/project-images/social-app/delete-modal-mobile.png",
+        "srcUrl": "/project-images/social-app/delete-modal-mobile.png",
         "alt": "Popup modal on users own post to delete post, a 'confirm' button or 'cancel' button can be clicked for large screens"
       },
       {
-        "srcUrl": "/src/data/project-images/social-app/profile.png",
+        "srcUrl": "/project-images/social-app/profile.png",
         "alt": "Personal user profile showing username, user image, bio and users posts can be viewed under for large screens"
       },
       {
-        "srcUrl": "/src/data/project-images/social-app/profile-mobile.png",
+        "srcUrl": "/project-images/social-app/profile-mobile.png",
         "alt": "Personal user profile showing username, user image, bio and users posts can be viewed under for mobile"
       }
     ]
   },
   {
     "title": "Rainy days",
-    "description": "An e-commerce site and an iteration of an earlier project implementing Vanilla JavaScript, using Noroff's Rainy days API to fetch products. I built the product listing, view one product, cart, checkout flow and the UI is created with basic CSS.",
+    "description": "An e-commerce site and an iteration of an earlier project implementing vanilla JavaScript, using Noroff's Rainy days API to fetch products. I built the product listing, view one product, cart, checkout flow and the UI is created with basic CSS.",
     "status": "Completed",
     "techStack": ["HTML", "CSS", "JavaScript"],
     "year": 2026,
-    "image": [
+    "images": [
       {
-        "srcUrl": "/src/data/project-images/rainy-days/thumnail-image-rainy-days.png",
+        "srcUrl": "/project-images/rainy-days/thumbnail-image-rainy-days.png",
         "alt": "Rainy days homepage showcasing product listings, searchbar and a filtering dropdown for large screens"
       },
       {
-        "srcUrl": "/src/data/project-images/rainy-days/homepage-mobile.png",
+        "srcUrl": "/project-images/rainy-days/homepage-mobile.png",
         "alt": "Rainy days homepage showcasing product listings, searchbar and a filtering dropdown for mobile"
       },
 
       {
-        "srcUrl": "/src/data/project-images/rainy-days/filtering-products.png",
+        "srcUrl": "/project-images/rainy-days/filtering-products.png",
         "alt": "Homepage with applied filter 'Best sellers', showing relevant products for large screens"
       },
       {
-        "srcUrl": "/src/data/project-images/rainy-days/filtering-products-mobile.png",
+        "srcUrl": "/project-images/rainy-days/filtering-products-mobile.png",
         "alt": "Homepage with applied filter 'Best sellers', showing relevant products for mobile"
       },
       {
-        "srcUrl": "/src/data/project-images/rainy-days/one-product.png",
+        "srcUrl": "/project-images/rainy-days/one-product.png",
         "alt": "A red jacket product description with price, a dropdown to select size and a 'Add to cart' button for large screens"
       },
       {
-        "srcUrl": "/src/data/project-images/rainy-days/one-product-mobile.png",
+        "srcUrl": "/project-images/rainy-days/one-product-mobile.png",
         "alt": "A red jacket product description with price, a dropdown to select size and a 'Add to cart' button for mobile"
       },      
       {
-        "srcUrl": "/src/data/project-images/rainy-days/cart.png",
+        "srcUrl": "/project-images/rainy-days/cart.png",
         "alt": "Shoppingcart showing 3 items in cart, and a order summary on the right for large screens"
       },
       {
-        "srcUrl": "/src/data/project-images/rainy-days/cart-mobile.png",
+        "srcUrl": "/project-images/rainy-days/cart-mobile.png",
         "alt": "Shoppingcart showing an item in cart, and a order summary below for mobile"
       },
       {
-        "srcUrl": "/src/data/project-images/rainy-days/checkout.png",
+        "srcUrl": "/project-images/rainy-days/checkout.png",
         "alt": "Checkout with a details form, and an order summary on the right, a 'Pay order' button is clickable for large screens"
       },
       {
-        "srcUrl": "/src/data/project-images/rainy-days/checkout-mobile.png",
+        "srcUrl": "/project-images/rainy-days/checkout-mobile.png",
         "alt": "Checkout with a details form, and an order summary on the right, a 'Pay order' button is clickable for mobile"
       }]
   },
@@ -209,74 +209,74 @@
     "status": "Completed",
     "techStack": ["HTML", "CSS"],
     "year": 2025,
-    "image": [
+    "images": [
       {
-        "srcUrl": "/src/data/project-images/community-science-museum/thumnail-image-community-science-museum.png",
+        "srcUrl": "/project-images/community-science-museum/thumbnail-image-community-science-museum.png",
         "alt": "Community Science Museum homepage showing a hero image of the museum for large screens"
       },
       {
-        "srcUrl": "/src/data/project-images/community-science-museum/homepage-mobile.png",
+        "srcUrl": "/project-images/community-science-museum/homepage-mobile.png",
         "alt": "Community Science Museum homepage showing a hero image of the museum for mobile"
       },
 
       {
-        "srcUrl": "/src/data/project-images/community-science-museum/bento.png",
+        "srcUrl": "/project-images/community-science-museum/bento.png",
         "alt": "Bentobox layout showing images and descriptions about the museum for large screens"
       },
       {
-        "srcUrl": "/src/data/project-images/community-science-museum/bento-mobile.png",
+        "srcUrl": "/project-images/community-science-museum/bento-mobile.png",
         "alt": "Redesigned layout of images and descriptions about the museum to fit mobile screens"
       },
       {
-        "srcUrl": "/src/data/project-images/community-science-museum/info.png",
+        "srcUrl": "/project-images/community-science-museum/info.png",
         "alt": "Image of a man and a child doing a science experiment. Info about what kids can experience at the museum, for large screens"
       },
       {
-        "srcUrl": "/src/data/project-images/community-science-museum/info-mobile.png",
+        "srcUrl": "/project-images/community-science-museum/info-mobile.png",
         "alt": "Image of a man and a child doing a science experiment. Info about what kids can experience at the museum, for mobile"
       },      
       {
-        "srcUrl": "/src/data/project-images/community-science-museum/exhibitions.png",
+        "srcUrl": "/project-images/community-science-museum/exhibitions.png",
         "alt": "Image of a galaxy. Info about exhibitions to find at the museum, for large screens"
       },
       {
-        "srcUrl": "/src/data/project-images/community-science-museum/exhibitions-mobile.png",
+        "srcUrl": "/project-images/community-science-museum/exhibitions-mobile.png",
         "alt": "Information about exhibitions to find at the museum, for mobile"
       },
       {
-        "srcUrl": "/src/data/project-images/community-science-museum/events.png",
+        "srcUrl": "/project-images/community-science-museum/events.png",
         "alt": "Information about events that take place at the museum for large screens"
       },
       {
-        "srcUrl": "/src/data/project-images/community-science-museum/events-mobile.png",
+        "srcUrl": "/project-images/community-science-museum/events-mobile.png",
         "alt": "Information about events that take place at the museum for mobile"
       },
       {
-        "srcUrl": "/src/data/project-images/community-science-museum/visit-us.png",
+        "srcUrl": "/project-images/community-science-museum/visit-us.png",
         "alt": "Information about visiting the museum for large screens"
       },
       {
-        "srcUrl": "/src/data/project-images/community-science-museum/visit-us-mobile.png",
+        "srcUrl": "/project-images/community-science-museum/visit-us-mobile.png",
         "alt": "Information about visiting the museum for mobile"
       },
             {
-        "srcUrl": "/src/data/project-images/community-science-museum/bento2.png",
+        "srcUrl": "/project-images/community-science-museum/bento2.png",
         "alt": "Bentobox layout displaying information about where to find the museum and what the museum offers, for large screens"
       },
             {
-        "srcUrl": "/src/data/project-images/community-science-museum/bento-2-mobile.png",
+        "srcUrl": "/project-images/community-science-museum/bento-2-mobile.png",
         "alt": "Redisigned layout displaying information about where to find the museum and what the museum offers, for mobile"
       },
             {
-        "srcUrl": "/src/data/project-images/community-science-museum/get-involved.png",
+        "srcUrl": "/project-images/community-science-museum/get-involved.png",
         "alt": "Hero image of a girl holding a leaf. Information about how to get involved with the museum"
       },
             {
-        "srcUrl": "/src/data/project-images/community-science-museum/get-involved-2.png",
+        "srcUrl": "/project-images/community-science-museum/get-involved-2.png",
         "alt": "Hero image of a girl holding a leaf. Information about how to get involved with the museum, from internships, to volunteer work and donations for large screens"
       },
             {
-        "srcUrl": "/src/data/project-images/community-science-museum/get-involved-mobile.png",
+        "srcUrl": "/project-images/community-science-museum/get-involved-mobile.png",
         "alt": "Information about how to get involved with the museum, from internships, to volunteer work and donations for mobile"
       }
     ]
