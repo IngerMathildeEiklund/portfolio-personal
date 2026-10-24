@@ -3,7 +3,7 @@
     "title": "Online Shop",
     "description": "A responsive e-commerce site that fetches product data from Noroff Online-shop API. I styled the UI with CSS and built the product listing, cart and checkout flow.",
     "status": "Completed",
-    "techStack": ["HTML", "CSS", "JavaScript", "Fetch from API"],
+    "techStack": ["HTML", "CSS", "JavaScript", "API"],
     "year": 2026,
     "images": [
       {
@@ -84,7 +84,7 @@
     "title": "Social Media App",
     "description": "A responsive social media application that uses the Noroff API for authentication, and full CRUD operations on posts.This was my first project with TypeScript, and the UI is styled in plain CSS.",
     "status": "Completed",
-    "techStack": ["HTML", "CSS", "Vite", "TypeScript", "Fetch from API"],
+    "techStack": ["HTML", "CSS", "Vite", "TypeScript", "API"],
     "year": 2026,
     "images": [
       {
