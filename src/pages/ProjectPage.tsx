@@ -39,7 +39,7 @@ export default function ProjectPage() {
   const next = () => setSelected((s) => (s + 1) % images.length);
 
   return (
-    <main className="project">
+    <main className="container mx-auto p-4">
       <Link to="/">← Back to projects</Link>
 
       <header className="project-header">

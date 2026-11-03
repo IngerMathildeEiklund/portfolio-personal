@@ -155,6 +155,87 @@
     ]
   },
   {
+    "title": "Social Media App | Restyled with TailwindCSS",
+    "description": "An iteration of the Online Shop project, restyled with TailwindCSS. The functionality is the same as the original project.",
+    "status": "Completed",
+    "techStack": ["HTML", "Tailwind", "TypeScript","Vite", "API"],
+    "year": 2026,
+    "images": [
+      {
+        "srcUrl": "/project-images/tailwind-social-app/thumbnail-image-tailwind.png",
+        "alt": "Social media app thumbnail image showing the homepage on large screens"
+      },
+      {
+        "srcUrl": "/project-images/tailwind-social-app/homepage-mobile.png",
+        "alt": "Social media app homepage with responsive design to fit mobile screens"
+      },
+      {
+        "srcUrl": "/project-images/tailwind-social-app/login.png",
+        "alt": "Login page for large screens, with an email and password input and a 'Login' button"
+      },
+      {
+        "srcUrl": "/project-images/tailwind-social-app/login-mobile.png",
+        "alt": "Login page for mobile screens, with an email and password input and a 'Login' button"
+      },
+      {
+        "srcUrl": "/project-images/tailwind-social-app/register.png",
+        "alt": "Register page for large screens, with fields to create a new account"
+      },
+      {
+        "srcUrl": "/project-images/tailwind-social-app/register-mobile.png",
+        "alt": "Register page for mobile screens, with fields to create a new account"
+      },
+      {
+        "srcUrl": "/project-images/tailwind-social-app/postfeed-1.png",
+        "alt": "Post feed showing a post with username, follow button, post text, image and date created for large screens"
+      },
+      {
+        "srcUrl": "/project-images/tailwind-social-app/postfeed-2.png",
+        "alt": "Post feed showing a different post with username, follow button, post text, image and date created for large screens"
+      },
+      {
+        "srcUrl": "/project-images/tailwind-social-app/postfeed-1-mobile.png",
+        "alt": "Post feed showing a post with username, follow button, post text, image and date created for mobile screens"
+      },
+      {
+        "srcUrl": "/project-images/tailwind-social-app/postfeed-2-mobile.png",
+        "alt": "Post feed showing a different post with username, follow button, post text, image and date created for mobile screens"
+      },
+      {
+        "srcUrl": "/project-images/tailwind-social-app/postfeed-3-mobile.png",
+        "alt": "Post feed showing a different post with username, follow button, post text, image and date created for mobile screens"
+      },
+      {
+        "srcUrl": "/project-images/tailwind-social-app/postfeed-4-mobile.png",
+        "alt": "Post feed showing a different post with username, follow button, post text, image and date created for mobile screens"
+      },
+            {
+        "srcUrl": "/project-images/tailwind-social-app/profile.png",
+        "alt": "Profile page showing a user with username, banner image, profile image, a bio and a list of posts for large screens"
+      },
+      {
+        "srcUrl": "/project-images/tailwind-social-app/profile-mobile.png",
+        "alt": "Profile page showing a user with username, banner image, profile image, a bio and a list of posts for mobile screens"
+      },
+      {
+        "srcUrl": "/project-images/tailwind-social-app/onepost.png",
+        "alt": "Page showing one post with the same content as the post feed for large screens"
+      },
+      {
+        "srcUrl": "/project-images/tailwind-social-app/onepost-2.png",
+        "alt": "Continuation of the one post page showing the comment section and a form to add a comment for large screens"
+      },
+      {
+        "srcUrl": "/project-images/tailwind-social-app/onepost-1-mobile.png",
+        "alt": "Page showing one post with the same content as the post feed for mobile screens"
+      },
+      {
+        "srcUrl": "/project-images/tailwind-social-app/onepost-2-mobile.png",
+        "alt": "Continuation of the one post page showing the comment section and a form to add a comment for mobile screens"
+      }
+    ]
+  },
+  {
     "title": "Rainy days",
     "description": "An e-commerce site and an iteration of an earlier project implementing vanilla JavaScript, using Noroff's Rainy days API to fetch products. I built the product listing, view one product, cart, checkout flow and the UI is created with basic CSS.",
     "status": "Completed",
@@ -205,7 +286,7 @@
   },
   {
     "title": "Community Science Museum",
-    "description": "This is another project for the portfolio.",
+    "description": "This was my first project together with a classmate. The assignment was to create a responsive website for an interactive science museum catered to families with children between the ages 7-15",
     "status": "Completed",
     "techStack": ["HTML", "CSS"],
     "year": 2025,
@@ -260,7 +341,7 @@
         "alt": "Information about visiting the museum for mobile"
       },
             {
-        "srcUrl": "/project-images/community-science-museum/bento2.png",
+        "srcUrl": "/project-images/community-science-museum/bento-2.png",
         "alt": "Bentobox layout displaying information about where to find the museum and what the museum offers, for large screens"
       },
             {
